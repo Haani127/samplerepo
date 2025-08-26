@@ -1,2 +1,2 @@
 # samplerepo
-This repo is used to explore various git operation and command for project 
+This repo is used to explore various git operation and command for project for learning.
